@@ -1,0 +1,12 @@
+/Users/deneme/RiderProjects/OnionLearnSln/Infrastructure/OnionLearn.Infrastructure/bin/Debug/net8.0/OnionLearn.Infrastructure.deps.json
+/Users/deneme/RiderProjects/OnionLearnSln/Infrastructure/OnionLearn.Infrastructure/bin/Debug/net8.0/OnionLearn.Infrastructure.dll
+/Users/deneme/RiderProjects/OnionLearnSln/Infrastructure/OnionLearn.Infrastructure/bin/Debug/net8.0/OnionLearn.Infrastructure.pdb
+/Users/deneme/RiderProjects/OnionLearnSln/Infrastructure/OnionLearn.Infrastructure/obj/Debug/net8.0/OnionLearn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deneme/RiderProjects/OnionLearnSln/Infrastructure/OnionLearn.Infrastructure/obj/Debug/net8.0/OnionLearn.Infrastructure.AssemblyInfoInputs.cache
+/Users/deneme/RiderProjects/OnionLearnSln/Infrastructure/OnionLearn.Infrastructure/obj/Debug/net8.0/OnionLearn.Infrastructure.AssemblyInfo.cs
+/Users/deneme/RiderProjects/OnionLearnSln/Infrastructure/OnionLearn.Infrastructure/obj/Debug/net8.0/OnionLearn.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/deneme/RiderProjects/OnionLearnSln/Infrastructure/OnionLearn.Infrastructure/obj/Debug/net8.0/OnionLearn.Infrastructure.sourcelink.json
+/Users/deneme/RiderProjects/OnionLearnSln/Infrastructure/OnionLearn.Infrastructure/obj/Debug/net8.0/OnionLearn.Infrastructure.dll
+/Users/deneme/RiderProjects/OnionLearnSln/Infrastructure/OnionLearn.Infrastructure/obj/Debug/net8.0/refint/OnionLearn.Infrastructure.dll
+/Users/deneme/RiderProjects/OnionLearnSln/Infrastructure/OnionLearn.Infrastructure/obj/Debug/net8.0/OnionLearn.Infrastructure.pdb
+/Users/deneme/RiderProjects/OnionLearnSln/Infrastructure/OnionLearn.Infrastructure/obj/Debug/net8.0/ref/OnionLearn.Infrastructure.dll

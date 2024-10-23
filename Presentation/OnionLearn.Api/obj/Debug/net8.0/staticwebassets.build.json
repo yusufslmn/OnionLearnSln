@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DOPL3DsK5y0MjXmK4BfcGIGyADyjNUnJ+q15tQzSwRY=",
+  "Source": "OnionLearn.Api",
+  "BasePath": "_content/OnionLearn.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

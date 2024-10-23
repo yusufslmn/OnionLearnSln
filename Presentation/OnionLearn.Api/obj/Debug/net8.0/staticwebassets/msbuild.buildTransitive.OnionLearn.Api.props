@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/OnionLearn.Api.props" />
+</Project>

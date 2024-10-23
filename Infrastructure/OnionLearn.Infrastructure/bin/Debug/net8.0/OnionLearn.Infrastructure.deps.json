@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OnionLearn.Infrastructure/1.0.0": {
+        "runtime": {
+          "OnionLearn.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnionLearn.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

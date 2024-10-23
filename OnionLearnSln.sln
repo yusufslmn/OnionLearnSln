@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnionLearn.Persistence", "I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnionLearn.Api", "Presentation\OnionLearn.Api\OnionLearn.Api.csproj", "{0396A990-31FE-4F2C-BD1A-F6398FA6781B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnionLearn.Mapper", "Core\OnionLearn.Mapper\OnionLearn.Mapper.csproj", "{63C3D821-2EC5-46BC-87D3-81D7A5E90DF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,7 @@ Global
 		{736C65A3-A088-4A38-A65F-3E390411629F} = {E8A3EB51-D919-4DFD-8DFC-EEFE12E98AA2}
 		{0BCDB91F-3775-467C-ABED-1865F18A37EE} = {E8A3EB51-D919-4DFD-8DFC-EEFE12E98AA2}
 		{0396A990-31FE-4F2C-BD1A-F6398FA6781B} = {B3196355-17F2-4157-86D3-3B700320ACDD}
+		{63C3D821-2EC5-46BC-87D3-81D7A5E90DF2} = {9BB5E691-237B-49C3-B816-5941D3A96BF9}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{DA902C9A-6C80-4A6A-8745-816A4E761874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -49,5 +52,9 @@ Global
 		{0396A990-31FE-4F2C-BD1A-F6398FA6781B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0396A990-31FE-4F2C-BD1A-F6398FA6781B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0396A990-31FE-4F2C-BD1A-F6398FA6781B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C3D821-2EC5-46BC-87D3-81D7A5E90DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C3D821-2EC5-46BC-87D3-81D7A5E90DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C3D821-2EC5-46BC-87D3-81D7A5E90DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C3D821-2EC5-46BC-87D3-81D7A5E90DF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

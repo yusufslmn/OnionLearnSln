@@ -1,0 +1,16 @@
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/bin/Debug/net8.0/OnionLearn.Application.deps.json
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/bin/Debug/net8.0/OnionLearn.Application.dll
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/bin/Debug/net8.0/OnionLearn.Application.pdb
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/obj/Debug/net8.0/OnionLearn.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/obj/Debug/net8.0/OnionLearn.Application.AssemblyInfoInputs.cache
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/obj/Debug/net8.0/OnionLearn.Application.AssemblyInfo.cs
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/obj/Debug/net8.0/OnionLearn.Application.csproj.CoreCompileInputs.cache
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/obj/Debug/net8.0/OnionLearn.Application.sourcelink.json
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/obj/Debug/net8.0/OnionLearn.Application.dll
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/obj/Debug/net8.0/refint/OnionLearn.Application.dll
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/obj/Debug/net8.0/OnionLearn.Application.pdb
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/obj/Debug/net8.0/ref/OnionLearn.Application.dll
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/bin/Debug/net8.0/OnionLearn.Domain.dll
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/bin/Debug/net8.0/OnionLearn.Domain.pdb
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/obj/Debug/net8.0/OnionLearn.Application.csproj.AssemblyReference.cache
+/Users/deneme/RiderProjects/OnionLearnSln/Core/OnionLearn.Application/obj/Debug/net8.0/OnionLea.AA2459BA.Up2Date
